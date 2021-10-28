@@ -17,3 +17,6 @@ and tissue labels for a particular dataset. It marks a given percentage as train
 - prepData_dhcp.py: prepData script specifically for dhcp data
 - run.py: training script
 - test.py: copy of training script used for testing purposes
+
+## Runs:
+- contains hyperparameters and results for all runs
